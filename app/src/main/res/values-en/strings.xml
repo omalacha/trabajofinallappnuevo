@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Probando</string>
+    <string name="opcion1">About us</string>
+    <string name="opcion2">English</string>
+    <string name="opcion3">Spanish</string>
+    <string name="boton1">Hotels</string>
+    <string name="descripcionhoteles">
+        In Carolina del Principe, you will find hotels and glampings starting from
+        $80000 COP per night, comfortable rooms that will allow you
+        to enjoy the rest and relaxation of the town.
+    </string>
+
+
+    <string name="bienvenida">Welcome</string>
+    <string name="inicio">Discover us</string>
+
+    <string name="bienvenidausuario">welcome</string>
+    <string name="titulorestaurantemolde">Café Macanas</string>
+    <string name="nombreplato">Desayuno tipico </string>
+    <string name="precioplato">15.000</string>
+    <string name="miradorjardin">Mirador jardin</string>
+    <string name="infositio">telefono: 3163045087</string>
+    <string name="preciositio">$ precio: consumibles</string>
+
+</resources>
